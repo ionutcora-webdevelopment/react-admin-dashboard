@@ -1,3 +1,16 @@
+# React JS Admin Dashboard | Bootstrap 5 & Recharts
+
+## Tutorial YouTube link - [React JS Admin Dashboard Tutorial with Bootstrap 5 and Recharts](https://youtu.be/14fEVRNd_c8?si=uV9OIW6kzKkdoDxH)
+
+<img src="React JS Admin Dashboard.jpg" alt="React JS Admin Dashboard" />
+
+## For this website I used:
+- [React JS](https://react.dev/) - Front End JavaScript library
+- [Recharts](https://recharts.org/en-US/) - Charting library for React
+- [Visual Studio Code Editor](https://code.visualstudio.com/)
+- [Bootstrap 5](https://getbootstrap.com/) - CSS Framework
+- [Google Fonts](https://fonts.google.com/) - Roboto Family Font
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
